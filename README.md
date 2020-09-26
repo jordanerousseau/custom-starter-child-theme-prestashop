@@ -5,7 +5,7 @@ Child theme based of classic-rocket theme for prestashop 1.7.
 ## Compatibility
 PrestaShop 1.7.3.2 to 1.7.6.x
 
-## Download
+## Download classic-rocket
 - [classic-rocket](https://github.com/PrestaShop/classic-rocket/releases)
 
 ## Getting started
@@ -17,7 +17,7 @@ git clone https://github.com/jordanerousseau/starter-child-theme-prestashop
 cd starter-child-theme-prestashop
 ```
 
-## Install dependencies
+## Install dependencies and run watch
 
 ```bash
 # Using yarn
