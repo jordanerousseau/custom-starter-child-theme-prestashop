@@ -1,0 +1,6 @@
+parent: classic-rocket
+name: Starter theme Prestashop 1.7
+display_name: Child theme of classic-rocket theme
+version: 1.0.0
+assets:
+  use_parent_assets: false
